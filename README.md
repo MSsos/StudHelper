@@ -1,2 +1,2 @@
-# StudHelper
-program by text diplom
+# Helper
+
